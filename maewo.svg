@@ -9,7 +9,7 @@
    viewBox="0 0 480 120"
    style="enable-background:new 0 0 480 120;"
    xml:space="preserve"
-   sodipodi:docname="logo (1).svg"
+   sodipodi:docname="maewo.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,9 +25,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="2"
-   inkscape:cx="209.25"
-   inkscape:cy="80.5"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="104.29825"
+   inkscape:cy="168.99852"
    inkscape:window-width="1920"
    inkscape:window-height="1009"
    inkscape:window-x="-8"
@@ -44,13 +44,13 @@
 </style>
 
 <path
-   d="m 293.8309,50.81429 c 0,0 34.57617,0.32421 48.01563,1.84179 0,0 12.13867,1.51758 17.55859,0.65039 0,0 7.33984,-3.67968 11.48828,-5.09375 2.01563,-0.6875 3.51172,-1.95703 5.74414,-6.28711 0.66797,-1.29687 1.73438,-2.60156 4.98633,-3.03515 0,0 0.75781,4.55273 0,6.9375 0,0 11.49023,8.67187 8.7793,14.30664 0,0 -1.92383,3.17969 -3.79297,3.25195 -1.8418,0.0703 -6.61133,-0.65039 -7.3711,0 0,0 -7.45507,4.50977 -8.23828,11.05664 -0.44336,3.71485 -1.55273,12.29102 0.32422,14.95703 4.17383,5.92969 23.19531,20.26953 17.5586,23.08594 0,0 -1.73438,0.97461 -4.66016,-1.30078 0,0 -8.02149,-8.67188 -13.33203,-10.62305 0,0 -12.24805,-7.04492 -14.41602,-10.73047 0,0 -8.88867,1.95118 -7.04492,20.59375 0,0 1.61328,2.87891 2.92578,3.79297 0.92578,0.64453 3.63086,4.13672 -1.8418,4.11914 0,0 -6.5039,0.75782 -7.47851,-7.80468 0,0 -0.7793,-17.66797 -0.71484,-23.19532 L 310.7352,87.2303 301.62973,97.63655 c 0,0 -2.89063,5.95313 2.81836,10.51367 0.51172,0.41016 1.43359,1.43164 2.05859,1.625 1.65235,0.51172 6.50391,-0.43359 5.63672,4.00977 0,0 -1.07617,3.4707 -7.58789,1.19141 -4.27148,-1.49415 -8.67187,-5.09375 -13.33203,-12.24805 0,0 -2.16797,-2.92578 0,-7.1543 0,0 2.16797,-8.5625 -1.4082,-8.02148 0,0 -7.04493,7.58789 -16.04102,7.47851 0,0 -9.75586,-0.10742 -9.97266,15.28321 0,0 4.44336,4.66015 -1.84179,4.87695 0,0 -4.87696,0.43359 -4.22656,-6.61133 0,0 0.65039,-6.61133 3.46875,-15.82422 0,0 0.75781,-3.57617 4.44335,-5.85351 0,0 6.39454,-3.12696 7.69532,-8.28321 0,0 1.73437,-12.85351 7.91211,-19.78906 0,0 1.4082,-4.98633 -1.73438,-11.70508 0,0 -6.07031,-10.73047 -7.1543,-23.08593 0,0 -0.32421,-6.39454 -8.88867,-16.1503998 0,0 -3.74023,-6.61132 2.27539,-4.98632 0,0 13.33203,7.3163998 15.44532,21.4609298 0.008,0.004 4.61523,22.4961 12.63476,26.45118 z"
+   d="m 289.31827,51.523114 c 0,0 30.26089,0.283747 42.02304,1.611926 0,0 10.6237,1.328178 15.36718,0.569218 0,0 6.42379,-3.220437 10.05449,-4.458024 1.76407,-0.601697 3.07344,-1.712783 5.02724,-5.502447 0.5846,-1.135014 1.51792,-2.276871 4.36401,-2.656347 0,0 0.66323,3.984526 0,6.071664 0,0 10.05619,7.589576 7.6836,12.521098 0,0 -1.68373,2.782848 -3.31959,2.84609 -1.61193,0.06153 -5.7862,-0.569218 -6.45115,0 0,0 -6.52464,3.946927 -7.2101,9.676714 -0.38802,3.251218 -1.35894,10.757038 0.28376,13.090316 3.65291,5.189634 20.30041,17.739788 15.36719,20.204688 0,0 -1.51792,0.85298 -4.07854,-1.13843 0,0 -7.02037,-7.589586 -11.66813,-9.297236 0,0 -10.71943,-6.165679 -12.61682,-9.391253 0,0 -7.77932,1.707663 -6.16568,18.023539 0,0 1.41193,2.51961 2.56063,3.31959 0.81023,0.56409 3.17771,3.62044 -1.61194,3.60505 0,0 -5.69218,0.66324 -6.54515,-6.83062 0,0 -0.68204,-15.462909 -0.62563,-20.300417 l -27.64385,-0.09401 -7.96906,9.107491 c 0,0 -2.52986,5.21015 2.46661,9.201506 0.44786,0.35897 1.25468,1.25297 1.80167,1.42219 1.44613,0.44786 5.69219,-0.37947 4.93323,3.50933 0,0 -0.94186,3.03754 -6.64088,1.04272 -3.73838,-1.30767 -7.58958,-4.45802 -11.66813,-10.719426 0,0 -1.89739,-2.56063 0,-6.261404 0,0 1.8974,-7.493856 -1.23245,-7.020358 0,0 -6.16568,6.640882 -14.03901,6.545154 0,0 -8.53828,-0.09401 -8.72802,13.375774 0,0 3.8888,4.07854 -1.61193,4.26829 0,0 -4.26829,0.37947 -3.69906,-5.78621 0,0 0.56922,-5.786196 3.03583,-13.849264 0,0 0.66323,-3.129846 3.8888,-5.122962 0,0 5.59646,-2.736699 6.7349,-7.249423 0,0 1.51791,-11.249325 6.92464,-17.319283 0,0 1.23245,-4.364011 -1.51792,-10.244226 0,0 -5.31271,-9.391252 -6.26141,-20.204687 0,0 -0.28375,-5.596469 -7.77932,-14.134747 0,0 -3.27343,-5.7861933 1.99141,-4.3640023 0,0 11.66813,6.4032763 13.51767,18.7824963 0.007,0.0035 4.03922,19.688471 11.05787,23.149936 z"
    fill="#333333"
    p-id="9139"
    id="path2-3"
-   style="fill:#000000;stroke-width:0.195312" /><text
+   style="fill:#ffffff;stroke-width:0.170936" /><text
    xml:space="preserve"
-   style="font-size:60px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#000000"
+   style="font-size:60px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#ffffff"
    x="184.56175"
    y="88.204613"
    id="text505-7"><tspan
@@ -58,7 +58,7 @@
      id="tspan503-9"
      x="184.56175"
      y="88.204613"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei Bold'">往</tspan></text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei Bold';fill:#ffffff">往</tspan></text><text
    xml:space="preserve"
    style="font-size:60px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#ff0000"
    x="153.35277"
@@ -70,7 +70,7 @@
      y="86.271019"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei Bold';fill:#ff0000">·</tspan></text><text
    xml:space="preserve"
-   style="font-size:60px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#000000"
+   style="font-size:60px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#ffffff"
    x="89.245338"
    y="88.204613"
    id="text505"><tspan
@@ -78,11 +78,12 @@
      id="tspan503"
      x="89.245338"
      y="88.204613"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei Bold'">前</tspan></text><g
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei Bold';fill:#ffffff">前</tspan></text><g
    id="g756"
-   transform="translate(82.160364,-0.9542763)"><text
+   transform="translate(82.160364,-0.9542763)"
+   style="fill:#ffffff"><text
      xml:space="preserve"
-     style="font-size:26.356px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#000000;stroke-width:0.439267"
+     style="font-size:26.356px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#ffffff;stroke-width:0.439267"
      x="36.411888"
      y="29.220579"
      id="text559"><tspan
@@ -90,9 +91,9 @@
        id="tspan557"
        x="36.411888"
        y="29.220579"
-       style="fill:#000000;stroke-width:0.439267">え</tspan></text><text
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei Bold';fill:#ffffff;stroke-width:0.439267">え</tspan></text><text
      xml:space="preserve"
-     style="font-size:26.356px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#000000;stroke-width:0.439267"
+     style="font-size:26.356px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#ffffff;stroke-width:0.439267"
      x="10.944527"
      y="29.37501"
      id="text559-7"><tspan
@@ -100,9 +101,9 @@
        id="tspan557-5"
        x="10.944527"
        y="29.37501"
-       style="fill:#000000;stroke-width:0.439267">ま</tspan></text></g><text
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei Bold';fill:#ffffff;stroke-width:0.439267">ま</tspan></text></g><text
    xml:space="preserve"
-   style="font-size:22.8827px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#000000;stroke-width:0.381379"
+   style="font-size:22.8827px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#ffffff;stroke-width:0.381379"
    x="203.04927"
    y="29.29512"
    id="text563"><tspan
@@ -110,9 +111,9 @@
      id="tspan561"
      x="203.04927"
      y="29.29512"
-     style="fill:#000000;stroke-width:0.381379">を</tspan></text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei Bold';fill:#ffffff;stroke-width:0.381379">を</tspan></text><text
    xml:space="preserve"
-   style="font-size:14.1445px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#000000;stroke-width:0.235742"
+   style="font-size:14.1445px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei';fill:#ffffff;stroke-width:0.235742"
    x="96.51255"
    y="113.12026"
    id="text567"><tspan
@@ -120,4 +121,4 @@
      id="tspan565"
      x="96.51255"
      y="113.12026"
-     style="fill:#000000;stroke-width:0.235742">ナビゲーションページ</tspan></text></svg>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei Bold';fill:#ffffff;stroke-width:0.235742">ナビゲーションページ</tspan></text></svg>
